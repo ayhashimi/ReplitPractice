@@ -1,4 +1,4 @@
-public class Main
+public class replit110
 {
     void newLine()
     {
@@ -12,7 +12,7 @@ public class Main
 
     public static void main(String[] args)
     {
-        Main test = new Main();
+        replit110 test = new replit110();
 
         test.newLine();
         test.displayLine();
