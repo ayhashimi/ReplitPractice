@@ -1,4 +1,4 @@
-class Main
+public class replit18
 {
     public static void main (String[] args)
     {
@@ -9,3 +9,4 @@ class Main
     }
 
 }
+
