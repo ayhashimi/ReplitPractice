@@ -1,4 +1,4 @@
-public class Main
+public class replit116
 {
     public boolean bothEven (int a, int b)
     {
