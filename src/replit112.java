@@ -1,4 +1,4 @@
-public class Main
+public class replit112
 {
     public void count()
     {
