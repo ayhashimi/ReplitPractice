@@ -1,4 +1,4 @@
-class Main
+class replit119
 {
     String censorLetter(String a, char b)
     {
@@ -8,7 +8,7 @@ class Main
     }
     public static void main(String[] args)
     {
-        Main run = new Main();
+        replit119 run = new replit119();
 
         System.out.println(run.censorLetter("computer science", 'e'));
         System.out.println(run.censorLetter("trick or treat", 't'));

@@ -12,7 +12,7 @@ public class replit116
 
     public static void main(String[] args)
     {
-        Main run = new Main();
+        replit116 run = new replit116();
 
         System.out.println(run.bothEven(1, 2));
     }
