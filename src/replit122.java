@@ -11,11 +11,11 @@ class replit122
 
     public static void main(String [] args)
     {
-        Main run = new Main();
-        Main run2 = new Main();
+        replit122 run = new replit122();
+        replit122 run2 = new replit122();
 
         run.name = "USA";
-        run.capital = "Washington, DC";
+        run.capital = "Washington DC";
         run.pop = 330000000;
 
         run2.name = "Kazakhstan";

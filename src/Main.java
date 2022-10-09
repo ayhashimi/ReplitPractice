@@ -1,28 +1,51 @@
 class Main
 {
-    String name;
-    String capital;
-    long pop;
 
-    void display()
-    {
-        System.out.println("The capital of " + name + " is " + capital + " and population is " + pop);
-    }
 
-    public static void main(String [] args)
-    {
-        Main run = new Main();
-        Main run2 = new Main();
 
-        run.name = "USA";
-        run.capital = "Washington, DC";
-        run.pop = 330000000;
-
-        run2.name = "Kazakhstan";
-        run2.capital = "Astana";
-        run2.pop = 18500000;
-
-        run.display();
-        run2.display();
+    //test case below (dont change):
+    public static void main(String[] args){
+        System.out.println(thirdLetter("hello there")); //"hltr"
+        System.out.println(thirdLetter("technology")); //"thly"
     }
 }
+
+    Write a method header on line two with the following specs:
+
+
+        Returns:
+
+        ```
+        a String
+        ```
+
+        Name:
+
+        ```
+        thirdLetter
+        ```
+
+        Parameters:
+
+        ```
+        a String called s
+        ```
+
+        Then complete the method by programming the following behavior
+
+        ```
+        Returns every 3rd letter of the String s,
+        ```
+
+        ```
+        starting from the first letter.
+        See below examples.
+        ```
+
+        Examples:
+
+        ```
+        thirdLetter("hello there") ==> "hltr"
+        thirdLetter("technology") ==> "thly"
+        ```
+
