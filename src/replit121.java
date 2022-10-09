@@ -1,4 +1,4 @@
-class Main
+class replit121
 {
     int n;
     double n2;
@@ -6,8 +6,8 @@ class Main
 
     public static void main(String [] args)
     {
-        Main run = new Main();
-        Main run2 = new Main();
+        replit121 run = new replit121();
+        replit121 run2 = new replit121();
 
         run.n = 10;
         run.n2 = 10.23;
