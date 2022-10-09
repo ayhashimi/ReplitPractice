@@ -1,4 +1,4 @@
-class Main
+class replit122
 {
     String name;
     String capital;
