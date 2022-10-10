@@ -1,4 +1,4 @@
-class Main
+class replit141
 {
     public static void main(String[] args)
     {
