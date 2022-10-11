@@ -1,3 +1,4 @@
+/*
 
 class Main
 {
@@ -79,6 +80,7 @@ class Child extends Parent
 
 
 
+*/
 /*
 In parent class
 
@@ -97,3 +99,4 @@ Create a non argument constructor and write a logic to print "This is Parent con
         ```
         This is Parent constructor
         ```*/
+
