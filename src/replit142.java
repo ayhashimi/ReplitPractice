@@ -18,7 +18,9 @@ class SyntaxTechnologies
     int year;
     String lastDayOfClass;
 
-    public SyntaxTechnologies() {}
+    public SyntaxTechnologies()
+    {
+    }
 
     public SyntaxTechnologies(String s, int b, int y, String l)
     {

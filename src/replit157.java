@@ -1,3 +1,4 @@
+/*
 class replit157
 {
     public static void main(String[] args)
@@ -5,6 +6,8 @@ class replit157
         Child run = new Child();
 
         run.m2();
+
+
     }
 }
 
@@ -34,6 +37,7 @@ class Child extends Parent
     }
 }
 
+*/
 /*
 Create a Parent class
 
@@ -57,3 +61,4 @@ create  instance method  m1 saying "m1 method in parent class"
         ```
         m1 method in parent class
 ```*/
+
