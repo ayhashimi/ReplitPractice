@@ -1,3 +1,4 @@
+/*
 class Main
 {
     public static void main(String[] args)
@@ -10,15 +11,15 @@ class Main
 
 class Parent
 {
-        public Parent()
-        {
-            System.out.println("Parent Constructor without argument");
-        }
+    public Parent()
+    {
+        System.out.println("Parent Constructor without argument");
+    }
 
-        public Parent(int num)
-        {
-            System.out.println(num);
-        }
+    public Parent(int num)
+    {
+        System.out.println(num);
+    }
 }
 
 class Child extends Parent
@@ -87,6 +88,7 @@ class Child extends Parent
 
 
 
+*/
 /*
 In Parent Class.
 
@@ -127,3 +129,4 @@ In Parent Class.
         ```
 
 */
+
