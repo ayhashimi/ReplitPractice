@@ -20,6 +20,18 @@ class Parent
     {
         System.out.println(num);
     }
+
+    public Parent (String blah)
+    {
+
+    }
+
+    public void add(int a, int b)
+    {
+
+    }
+
+
 }
 
 class Child extends Parent

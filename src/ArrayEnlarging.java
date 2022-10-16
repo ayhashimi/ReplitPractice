@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+/*
 import java.util.Scanner;
 import java.util.Arrays;
 class Main
@@ -16,6 +16,7 @@ class Main
 
         for (int i = 0; i < array.length; i++)
         {
+
             temp = input.nextLine();
 
             if (temp.equals("NULL"))
@@ -26,16 +27,15 @@ class Main
             {
                 array[i] = Integer.parseInt(temp);
             }
+
             if (i == array.length - 1)
             {
                 System.out.println("INSIDE FIRST IF STATEMENT");
                 System.out.println(Arrays.toString(array));
-                array = enlarge(array);   //array is filled, and I need to pass it over to enlargen the array,
-                                        // but then I need to store that new array back into the old array variable
+                array = enlarge(array);
             }
         }
 
-        ArrayList<Student> theList = new ArrayList<>();
 
     }
 
@@ -51,8 +51,4 @@ class Main
         return newArray;
     }
 }
-
-class Student
-{
-
-}
+*/
